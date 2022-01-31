@@ -10,7 +10,7 @@
 
 Backend : Nest.js  
 Frontend : React.js  
-Design Tool : Figma  
+Design Tool : [Figma](https://www.figma.com/file/0SLWoqcquIGwhqSNroSMA7/vflo?node-id=0%3A1)
 
 ## 참여 인원 및 담당
 
