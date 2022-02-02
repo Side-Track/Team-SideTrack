@@ -8,6 +8,7 @@
 
 ## 기술 스택
 
+Node: v16.13.2 (2021.10.26. 기준 LTS)
 Backend : Nest.js  
 Frontend : React.js  
 Design Tool : [Figma](https://www.figma.com/file/IScJK54wGCyxaAEMM0sOuw/VFLO?node-id=0%3A1)
