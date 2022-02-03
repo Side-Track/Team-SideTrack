@@ -19,6 +19,7 @@ SideTrack 은 사이드 프로젝트를 하고싶은 개발자/디자이너들�
 
 - BE : lunaJYJ
 - FE : hjjam100
+- 노예 : Laiel
 
 ## Side-Track 에서 협업하는 방법에 대해서 알려드립니다.
 
