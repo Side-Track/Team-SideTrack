@@ -17,9 +17,9 @@ SideTrack 은 사이드 프로젝트를 하고싶은 개발자/디자이너들�
 
 ## Side-Track 에서 활동 중인 분은 아래와 같습니다.
 
-- BE : lunaJYJ
-- FE : hjjam100
-- 노예 : Laiel
+- lunaJYJ
+- hjjam100
+- laiel4
 
 ## Side-Track 에서 협업하는 방법에 대해서 알려드립니다.
 
