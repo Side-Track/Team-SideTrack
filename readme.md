@@ -34,4 +34,4 @@ SideTrack 은 사이드 프로젝트를 하고싶은 개발자/디자이너들�
 
 어느 누구든 개발을 통해 저희 팀에서 활약하고싶은 분은 디스코드를 통해 들어오셔서 이야기 나누어 보아요!
 
-https://discord.gg/sNKYrC46
+https://discord.gg/H7ZGE8Q9kA
