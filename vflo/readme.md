@@ -18,6 +18,10 @@ Design Tool : [Figma](https://www.figma.com/file/IScJK54wGCyxaAEMM0sOuw/VFLO?nod
 Backend : lunaJYJ  
 Frontend : hjjam100
 
+## 기획
+
+- [VFLO 기획문서](./plan.md)
+
 ## 기능 명세
 
 - [VFLO](./feature.md)
